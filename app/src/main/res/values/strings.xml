@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pedidos cliente</string>
+    <string name="title_activity_login">Ingreso al modulo de Pedidos</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password/Clave</string>
+    <string name="action_sign_in">Ingrese o registrese</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">usuario inválido</string>
+    <string name="invalid_password">Password debe ser mayor de 5 characters</string>
+    <string name="login_failed">"Acceso denegado"</string>
+</resources>
